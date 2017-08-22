@@ -71,5 +71,15 @@
             "vegetarian": false,
             "bookable": false,
 						"city": "Seattle"
-        }
+        },
+	{
+            "id": 8,
+            "name": "Cupcake Land",
+            "likes": 100,
+            "savory": true,
+            "sweet": true,
+            "vegetarian": false,
+            "bookable": false,
+						"city": "Washington DC"
+        }    
 ]
